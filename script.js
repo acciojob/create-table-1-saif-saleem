@@ -5,6 +5,6 @@ function insert_Row(event) {
 	row.innerHTML=`<td>Row${c} cell1</td> <td>Row${c} cell2</td>`;
 	
   st.appendChild(row);
-	c++;
+	// c++;
   
 }
